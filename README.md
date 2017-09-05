@@ -9,5 +9,7 @@
 
 3. change the file to executable program using command : chmod u+x ans.py
 
-4. Execute program via (inplace of "filename" give a valid filename such as /home/jay/file.csv with path): 
+4. Execute program via : 
     ./ans.py -i filename
+(inplace of "filename" give a valid filename such as /home/jay/file.csv with path)    
+  
