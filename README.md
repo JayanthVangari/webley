@@ -2,6 +2,8 @@
 
 > Running instructions from linux terminal:
 
+Before running the program make sure you have python 2.7 installed on your computer as the code is written in Python
+
 1. clone the repository :
  git clone https://github.com/JayanthVangari/webley.git
 
