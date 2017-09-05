@@ -6,7 +6,7 @@
  git clone git@github.com:JayanthVangari/webley.git
 
 
-2. navigate to the webley directory containing ans.py
+2. navigate to the webley directory containing file ans.py
 
 3. change the file to executable program using command : chmod u+x ans.py
 
