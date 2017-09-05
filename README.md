@@ -11,5 +11,6 @@
 
 4. Execute program via : 
     ./ans.py -i filename
+
 (inplace of "filename" give a valid filename such as /home/jay/file.csv with path)    
   
